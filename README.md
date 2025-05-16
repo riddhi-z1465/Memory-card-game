@@ -20,7 +20,12 @@ A simple and fun **Memory Matching Card Game** built with **HTML**, **CSS**, and
 
 
 ---
+## 👥 Contributors
 
+- [riddhi-z1465](https://github.com/riddhi-z1465)
+- [Shweta-Tech-creator](https://github.com/Shweta-Tech-creator)
+
+---
 ## 🛠️ Built With
 
 - HTML5
@@ -34,5 +39,5 @@ A simple and fun **Memory Matching Card Game** built with **HTML**, **CSS**, and
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/memory-card-game.git
+git clone https://github.com/riddhi-z1465/Memory-card-game.git
 cd memory-card-game
